@@ -1,3 +1,3 @@
-print("creat ok")
+print("ok")
 
 print("again")
